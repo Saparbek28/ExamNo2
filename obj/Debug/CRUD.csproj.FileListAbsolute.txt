@@ -1,0 +1,15 @@
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\Database.mdf
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\Database_log.ldf
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\CRUD.exe.config
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\CRUD.exe
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\CRUD.pdb
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\EntityFramework.dll
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\EntityFramework.xml
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\байназарс.corp\source\repos\CRUD\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\байназарс.corp\source\repos\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+c:\users\байназарс.corp\source\repos\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+c:\users\байназарс.corp\source\repos\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+c:\users\байназарс.corp\source\repos\CRUD\obj\Debug\CRUD.exe
+c:\users\байназарс.corp\source\repos\CRUD\obj\Debug\CRUD.pdb
